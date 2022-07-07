@@ -1,0 +1,4 @@
+1. Registration
+2. Log in
+3. Changing name
+4. Changin password
